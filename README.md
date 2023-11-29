@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Tanishaseal
-- 👀 I’m interested in dancing, painting and coding
-- 🌱 I’m currently studying engineering on cse-ai
+- 👀 I’m interested in dancing, painting and coding.
+- 🌱 I’m currently studying engineering on cse-ai.
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
